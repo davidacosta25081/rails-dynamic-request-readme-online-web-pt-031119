@@ -1,7 +1,7 @@
-class PostsController < ApplicationController 
+class PostsController < ApplicationController
 
-  def show 
+  def show
 
-  end 
+  end
 
 end     
