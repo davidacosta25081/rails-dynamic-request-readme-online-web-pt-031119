@@ -43,3 +43,11 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 40ms (Views: 20.0ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/posts/show" for 104.162.182.37 at 2019-08-06 20:38:47 +0000
+Processing by PostsController#show as HTML
+  Parameters: {"id"=>"show"}
+  Rendering posts/show.html.erb within layouts/application
+  Rendered posts/show.html.erb within layouts/application (0.4ms)
+Completed 200 OK in 450ms (Views: 447.0ms | ActiveRecord: 0.0ms)
+
+
